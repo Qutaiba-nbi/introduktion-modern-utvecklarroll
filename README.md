@@ -20,3 +20,10 @@ Under uppgiften använder jag följande Git-kommandon:
 * `git branch` – används för att hantera branches.
 * `git push` – skickar commits från datorn till GitHub.
 * `git pull` – hämtar ändringar från GitHub till datorn.
+## Repository, commit och versionshistorik
+
+Ett repository är en plats där ett projekt och dess filer lagras tillsammans med projektets versionshistorik. Repositoryt kan finnas på min dator och på GitHub.
+
+En commit är en sparad version av ändringarna i projektet. När jag gör en commit sparas en punkt i historiken som visar vad som har ändrats.
+
+Versionshistoriken är en lista över tidigare commits. Den gör det möjligt att se vilka ändringar som har gjorts i projektet över tid och att gå tillbaka och undersöka tidigare versioner.
